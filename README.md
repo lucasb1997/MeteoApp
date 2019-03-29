@@ -30,5 +30,12 @@ CONSIGNES :
 
 FONCTIONNALITES :
 
+
 Premier écran :
+
 ![5.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/5.png)
+
+
+Menu Recherche : 
+
+![2.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/2.png)
