@@ -22,6 +22,7 @@ CONSIGNES :
 
 - Architecture MVC
 - Appels REST
+- Stockage des données en cache
 - Plusieurs écrans
 - Affichage d'une liste dans un ListView
 - Affichage du détail d'un item de la liste
