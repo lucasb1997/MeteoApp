@@ -20,39 +20,40 @@ PREREQUIS :
 
 CONSIGNES :
 
-- Clean Architecture & MVVM
+- Architecture MVC
 - Appels REST
-- Ecrans : 3 activités, 3 fragments
-- Affichage d'une liste dans un RecyclerView
+- Plusieurs écrans
+- Affichage d'une liste dans un ListView
 - Affichage du détail d'un item de la liste
 - Barre de recherche
 - Redirection vers détails
+- Animations
 
 
 FONCTIONNALITES :
 
 
-Premier écran :
+  Premier écran :
 
 ![5.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/5.png)
 
 
-Menu Recherche : 
+  Menu Recherche : 
 
 ![2.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/2.png)
 
 
-Exemple Ecran Details :
+  Exemple Ecran Details :
 
 ![3.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/3.png)
 
 
-Exemple Bis Ecran Details  :
+  Exemple Bis Ecran Details  :
 
 ![4.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/4.png)
 
 
-Message Alerte si erreur :
+  Message Alerte si erreur :
 
 ![1.png](https://github.com/lucasb1997/MeteoApp/blob/master/screenREADME/1.png)
 
